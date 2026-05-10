@@ -1,17 +1,3 @@
-# G2Ray
-
-> Only works in places where you can open GitHub Codespaces
-
-## ⚠️ Important Notice
-
-**Please read this before using this project:**
-
-This project creates and runs a V2Ray proxy server. While the intention is for legitimate use, **we strongly recommend using a separate GitHub account (not your main account) when forking and running this project**, as GitHub may restrict accounts that violate its terms of service.
-
-## Overview
-
-G2Ray is an automated setup for running a VLESS proxy through GitHub Codespaces. It provides a quick way to set up your own proxy server for accessing content from restricted regions.
-
 ## Setup
 
 1. **Create or use a secondary GitHub account** (highly recommended)
@@ -55,17 +41,6 @@ If these IPs don't work, try different datacenters or ISPs from your region.
 - Check that your GitHub account has Codespaces enabled
 - Ensure you have enough compute hours remaining for the month
 - For network issues, try switching proxy protocols in your client app
-
-## Support the Project
-
-If you find this project useful, consider supporting its development:
-
-### Cryptocurrency Donations
-- **Bitcoin**: `bc1qdwdpeqv0l8ala8tm46rtfeghuxl70een84npj3`
-- **Ethereum**: `0x695CCF873d51E4C2dC1321b405C63BFE99c5a536`
-- **Solana**: `C2d9u9nY2hZfxsi5Fwz1o5VjGGQujWmxeqZ3upKvHBfD`
-- **TON Coin**: `UQAjStDMoMUusqRAuQGZ0Qbc2Th45yUUMdKlbhQ_6aS2TWlD`
-- [Buy me a coffee ☕](https://www.buymeacoffee.com/amiremohamadi) (donate to the main REPO, he made it happen)
 
 ## Disclaimer
 
